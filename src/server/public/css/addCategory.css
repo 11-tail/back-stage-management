@@ -1,0 +1,30 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+.layui-body{
+    padding:50px;
+}
+.layui-body>label{
+    font-size:16px;
+    display:inline-block;
+    width: 124px;
+    text-align:right;
+    padding-right:30px;
+    height: 60px;
+}
+.layui-body>input:nth-of-type(1){
+    width: 520px;
+    height: 38px;
+}
+.layui-body>textarea{
+    width: 520px;
+    height: 170px;
+}
+#conf{
+    width: 114px;
+    height: 44px;
+    background:#33AB9F;
+    color:white;
+    position:relative;
+    left:127px;
+    top:0px;
+    cursor:pointer;
+}

@@ -1,0 +1,34 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+.layui-body{
+    padding:50px;
+}
+.layui-body>label{
+    font-size:16px;
+    display:inline-block;
+    width: 124px;
+    text-align:right;
+    padding-right:30px;
+    height: 60px;
+}
+.layui-body>input:nth-of-type(1),.layui-body>input:nth-of-type(2),.layui-body>input:nth-of-type(3),.layui-body>input:nth-of-type(4),.layui-body>input:nth-of-type(9){
+    width: 520px;
+    height: 38px;
+}
+.layui-body>input:nth-of-type(5),.layui-body>input:nth-of-type(6),.layui-body>select,.layui-body>input:nth-of-type(7),.layui-body>input:nth-of-type(8){
+    width: 160px;
+    height: 38px;
+}
+.tex{
+    width: 520px;
+    height: 170px;
+}
+#conf{
+    width: 114px;
+    height: 44px;
+    background:#33AB9F;
+    color:white;
+    position:relative;
+    left:127px;
+    top:0px;
+    cursor:pointer;
+}

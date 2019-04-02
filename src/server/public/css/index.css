@@ -1,0 +1,19 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+#main{
+    margin:20px;
+}
+#main h3{
+    font-size: 30px;
+}
+.NUM{
+    display:inline-block;
+    width: 200px;
+    height: 200px;
+    padding-left:64px;
+}
+.num{
+    font-size: 40px;
+    color:orange;
+    line-height:140px;
+    margin-left:10px;
+}
